@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-16 03:54:26</sys_created_on>
+        <sys_id>43be0237db2303006881f7fdbf9619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_166805_first_bac_first_bac_table.x_166805_first_bac.first_bac_table_user</sys_name>
+        <sys_package display_value="First_Bac" source="x_166805_first_bac">561ecaf3db2303006881f7fdbf96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First_Bac">561ecaf3db2303006881f7fdbf96199d</sys_scope>
+        <sys_security_acl display_value="x_166805_first_bac_first_bac_table">4bbe0237db2303006881f7fdbf9619e2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_43be0237db2303006881f7fdbf9619e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-16 03:54:26</sys_updated_on>
+        <sys_user_role display_value="x_166805_first_bac.first_bac_table_user" name="x_166805_first_bac.first_bac_table_user">7ebe4273db2303006881f7fdbf961919</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
